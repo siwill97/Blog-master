@@ -1,7 +1,7 @@
 module.exports = {
   dest: "blog",
   theme: "reco",
-  title: "she Will",
+  title: "siwll的Blog",
   dest: "dist",
   description: "study programs and record life",
   head: [
@@ -38,15 +38,15 @@ module.exports = {
       { text: "Home", link: "/", icon: "reco-home" },
       { text: "Notes", link: "/note/", icon: "reco-document" },
       { text: "TimeLine", link: "/timeline/", icon: "reco-date" },
-      {
-        text: "PhotoAlbum",
-        link: "https://photo.smallsunnyfox.com/",
-        icon: "reco-blog",
-      },
-      { text: "About", link: "/about/", icon: "reco-account" },
+      // {
+      //   text: "PhotoAlbum",
+      //   link: "https://photo.smallsunnyfox.com/",
+      //   icon: "reco-blog",
+      // },
+      // { text: "About", link: "/about/", icon: "reco-account" },
       {
         text: "GitHub",
-        link: "https://github.com/smallsunnyfox",
+        link: "https://github.com/siwill97/Blog-master",
         icon: "reco-github",
       },
     ],
