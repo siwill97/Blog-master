@@ -7,6 +7,7 @@
 主题作者: [reco_luan](https://github.com/recoluan)
 
 编写博客时添加标签、日期和分类
+
 ```
 ---
 title: xxxxxxxxxxxxx
@@ -21,4 +22,5 @@ categories:
 
 # dev
 
-需要拉取reco主题代码到.vuepress/theme
+运行 npm run dev
+打包 npm run build

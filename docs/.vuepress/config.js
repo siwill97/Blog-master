@@ -155,7 +155,7 @@ module.exports = {
     authorAvatar:
       "https://gsk-dam.oss-cn-shanghai.aliyuncs.com/gskdam/dev/2bde1959c6e5f5f188653ef5b088c5eb1681457819582.jpg",
     // 备案号
-    record: "豫ICP备19035192号",
+    record: "晋ICP备2022011723号",
     recordLink: "https://beian.miit.gov.cn/",
     cyberSecurityRecord: "晋ICP备2022011723号-1",
     cyberSecurityLink:
