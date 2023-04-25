@@ -35,9 +35,9 @@ module.exports = {
     type: "blog",
     huawei: false,
     nav: [
-      { text: "Home", link: "/", icon: "reco-home" },
+      { text: "首页", link: "/", icon: "reco-home" },
       { text: "Notes", link: "/note/", icon: "reco-document" },
-      { text: "TimeLine", link: "/timeline/", icon: "reco-date" },
+      { text: "时间轴", link: "/timeline/", icon: "reco-date" },
       // {
       //   text: "PhotoAlbum",
       //   link: "https://photo.smallsunnyfox.com/",
@@ -82,11 +82,11 @@ module.exports = {
     blogConfig: {
       category: {
         location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: "Category", // 默认 “分类”
+        text: "分类", // 默认 “分类”
       },
       tag: {
         location: 3, // 在导航栏菜单中所占的位置，默认3
-        text: "Tag", // 默认 “标签”
+        text: "标签", // 默认 “标签”
       },
     },
     logo:
