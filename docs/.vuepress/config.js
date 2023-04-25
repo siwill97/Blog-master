@@ -1,7 +1,7 @@
 module.exports = {
   dest: "blog",
   theme: "reco",
-  title: "she Will",
+  title: "siwll的Blog",
   dest: "dist",
   description: "study programs and record life",
   head: [
@@ -35,18 +35,18 @@ module.exports = {
     type: "blog",
     huawei: false,
     nav: [
-      { text: "Home", link: "/", icon: "reco-home" },
+      { text: "首页", link: "/", icon: "reco-home" },
       { text: "Notes", link: "/note/", icon: "reco-document" },
-      { text: "TimeLine", link: "/timeline/", icon: "reco-date" },
-      {
-        text: "PhotoAlbum",
-        link: "https://photo.smallsunnyfox.com/",
-        icon: "reco-blog",
-      },
-      { text: "About", link: "/about/", icon: "reco-account" },
+      { text: "时间轴", link: "/timeline/", icon: "reco-date" },
+      // {
+      //   text: "PhotoAlbum",
+      //   link: "https://photo.smallsunnyfox.com/",
+      //   icon: "reco-blog",
+      // },
+      // { text: "About", link: "/about/", icon: "reco-account" },
       {
         text: "GitHub",
-        link: "https://github.com/smallsunnyfox",
+        link: "https://github.com/siwill97/Blog-master",
         icon: "reco-github",
       },
     ],
@@ -82,11 +82,11 @@ module.exports = {
     blogConfig: {
       category: {
         location: 2, // 在导航栏菜单中所占的位置，默认2
-        text: "Category", // 默认 “分类”
+        text: "分类", // 默认 “分类”
       },
       tag: {
         location: 3, // 在导航栏菜单中所占的位置，默认3
-        text: "Tag", // 默认 “标签”
+        text: "标签", // 默认 “标签”
       },
     },
     logo:
@@ -155,7 +155,7 @@ module.exports = {
     authorAvatar:
       "https://gsk-dam.oss-cn-shanghai.aliyuncs.com/gskdam/dev/2bde1959c6e5f5f188653ef5b088c5eb1681457819582.jpg",
     // 备案号
-    record: "豫ICP备19035192号",
+    record: "晋ICP备2022011723号",
     recordLink: "https://beian.miit.gov.cn/",
     cyberSecurityRecord: "晋ICP备2022011723号-1",
     cyberSecurityLink:
